@@ -1,0 +1,63 @@
+[
+    {
+        "ip": "105.112.70.245",
+        "browser": "Chrome",
+        "browserVersion": "110.0.0.0",
+        "platform": "Microsoft Windows",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+        "accuracy": "100",
+        "asOrg": "Celtel Nigeria Limited t.a ZAIN",
+        "asn": "AS36873",
+        "callingCode": "+234",
+        "city": "Lagos",
+        "connectionType": "",
+        "continentCode": "AF",
+        "continentName": "Africa",
+        "countryCapital": "Abuja",
+        "countryCode2": "NG",
+        "countryCode3": "NGA",
+        "countryFlag": "https://ipgeolocation.io/static/flags/ng_64.png",
+        "countryName": "Nigeria",
+        "countryTld": ".ng",
+        "createdAt": "2023-02-23T07:56:08.375Z",
+        "currency": {
+            "code": "NGN",
+            "name": "Nigerian Naira",
+            "symbol": "₦"
+        },
+        "district": "",
+        "ipRange": "105.112.70.0/23",
+        "isEu": false,
+        "isp": "Airtel Networks Limited",
+        "languages": "en-NG,ha,yo,ig,ff",
+        "latitude": "6.4474",
+        "longitude": "3.3903",
+        "organization": "",
+        "security": {
+            "threatScore": 0,
+            "isTor": false,
+            "isProxy": false,
+            "proxyType": "",
+            "isAnonymous": false,
+            "isKnownAttacker": false,
+            "isSpam": false,
+            "isBot": false,
+            "isCloudProvider": false
+        },
+        "stateProv": "Lagos",
+        "subdivisions": {
+            "isoCode": "LA",
+            "name": "Lagos"
+        },
+        "timezone": {
+            "name": "Africa/Lagos",
+            "offset": 1,
+            "currentTime": "2023-02-23T08:01:07.352Z",
+            "isDst": false,
+            "dstSavings": 0
+        },
+        "timezoneTime": "Thu Feb 23 2023 08:56:08 GMT+0100",
+        "zipcode": "106104",
+        "success": true
+    }
+]

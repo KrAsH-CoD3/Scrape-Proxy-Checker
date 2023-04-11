@@ -1,0 +1,17 @@
+{
+"Proxy 1": {"Proxy": "47.100.182.178:443", "Country": "Hong Kong", "Region": "Central and Western District", "City": "Central"},
+"Proxy 2": {"Proxy": "138.68.124.120:59166", "Country": "Germany", "Region": "Hesse", "City": "Frankfurt am Main"},
+"Proxy 3": {"Proxy": "185.86.5.162:8975", "Country": "Turkey", "Region": "Istanbul", "City": "Istanbul"},
+"Proxy 4": {"Proxy": "193.123.81.52:443", "Country": "United States", "Region": "California", "City": "San Jose"},
+"Proxy 5": {"Proxy": "47.243.95.228:10080", "Country": "Hong Kong", "Region": "Central and Western District", "City": "Central"},
+"Proxy 6": {"Proxy": "146.145.199.117:8080", "Country": "United States", "Region": "Pennsylvania", "City": "Bala-Cynwyd"},
+"Proxy 7": {"Proxy": "188.34.140.205:1080", "Country": "Germany", "Region": "Saxony", "City": "Falkenstein"},
+"Proxy 8": {"Proxy": "45.32.114.246:8081", "Country": "Austria", "Region": "Vienna", "City": "Vienna"},
+"Proxy 9": {"Proxy": "103.111.225.93:1090", "Country": "Bangladesh", "Region": "Chittagong", "City": "Chittagong"},
+"Proxy 10": {"Proxy": "185.87.121.35:8975", "Country": "Turkey", "Region": "Istanbul", "City": "Istanbul"},
+"Proxy 11": {"Proxy": "125.141.139.55:5566", "Country": "Germany", "Region": "Brandenburg", "City": "Brandenburg"},
+"Proxy 12": {"Proxy": "192.154.247.123:9000", "Country": "United States", "Region": "Florida", "City": "Orlando"},
+"Proxy 13": {"Proxy": "45.132.75.19:36090", "Country": "Brazil", "Region": "Minas Gerais", "City": "Uberlândia"},
+"Proxy 14": {"Proxy": "213.188.208.179:80", "Country": "Japan", "Region": "Tokyo", "City": "Tokyo"},
+"Proxy 15": {"Proxy": "45.132.75.19:16863", "Country": "Iraq", "Region": "Baghdad", "City": "Baghdad"}
+}
