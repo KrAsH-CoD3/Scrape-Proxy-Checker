@@ -4,11 +4,6 @@ import requests, json
 
 socks5 = True
 
-def getProxy(proxy_endpoint) -> list:
-    response = requests.get(proxy_endpoint)
-    resp_text: list = response.text.split("\n")
-    return resp_text
-
 def cleanJson(jsonName) -> None:
     # Clean everything in the json file (DELETE)
     with open(f"jsons/{jsonName}", "rb+") as j_file:
@@ -34,8 +29,7 @@ def writeJson(responseList) -> None:
             try:
                 proxy_json.write(proxyaddr + "\n}") if idx == len(
                     responseList)-1 else proxy_json.write(f"{proxyaddr},\n")
-            except UnicodeEncodeError:
-            # except json.decoder.JSONDecodeError:  # 
+            except UnicodeEncodeError: 
                 if idx == len(responseList)-1:
                     proxy_json.seek(proxy_json.tell() - 3)  # Move back two characters from the end of the file
                     proxy_json.truncate()
